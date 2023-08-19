@@ -1,0 +1,24 @@
+[
+
+    {   "id": 1,
+        "category_logo": "/Icons/accounts.png",
+        "category_name": "Finance",
+        "jobs_available": 180
+     },
+     {  "id": 2,
+        "category_logo": "/Icons/creative.png",
+        "category_name": "Marketing",
+        "jobs_available": 320
+     },
+     {  "id": 3,
+        "category_logo": "/Icons/engein.png",
+        "category_name": "Healthcare",
+        "jobs_available": 120
+     },
+     {  "id":4,
+        "category_logo": "/Icons/marketing.png",
+        "category_name": "Technology",
+        "jobs_available": 250
+     }
+     
+]

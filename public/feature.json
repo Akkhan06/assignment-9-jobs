@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?size=626&ext=jpg&ga=GA1.2.1400512161.1661010139&semt=ais",
+        "job_title": "Software Engineer",
+        "company_name": "Acme Inc.",
+        "remote_or_onsite": "Remote",
+        "onsite": "Full Time",
+        "location": "San Francisco, CA",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$120,000 - $150,000",
+        "job_description": "Acme Inc. is seeking a software engineer to join our team...",
+        "job_responsibility": "Design and develop software applications...",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science or related field...",
+        "experiences": "5+ years of experience in software development...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@acme.com"
+        }
+     },
+     {
+        "id": 2,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/portrait-scientist-man-looking-camera-sitting-modern-equipped-laboratory-scientist-doctor-examining-virus-evolution-using-high-tech-typing-computer-chemistry-tools-scientific-research_482257-12807.jpg?size=626&ext=jpg&ga=GA1.2.1400512161.1661010139&semt=ais",
+        "job_title": "Data Scientist",
+        "company_name": "Data Corp.",
+        "remote_or_onsite": "onsite",
+        "onsite": "Full Time",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$100,000 - $130,000",
+        "job_description": "Data Corp. is seeking a data scientist to join our team...",
+        "job_responsibility": "Analyze and interpret complex data sets...",
+        "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics or related field...",
+        "experiences": "3+ years of experience in data analysis and machine learning...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@datacorp.com"
+        }
+     },
+     {
+        "id": 3,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/spreadsheet-document-financal-report-concept_53876-132323.jpg?size=626&ext=jpg&ga=GA1.2.1400512161.1661010139&semt=ais",
+        "job_title": "Marketing Manager",
+        "company_name": "Marketing Inc.",
+        "remote_or_onsite": "Remote",
+        "onsite": "Full Time",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$90,000 - $120,000",
+        "job_description": "Marketing Inc. is seeking a marketing manager to join our team...",
+        "job_responsibility": "Develop and execute marketing strategies...",
+        "educational_requirements": "Bachelor's or Master's degree in Marketing, Business or related field...",
+        "experiences": "5+ years of experience in marketing management...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@marketinginc.com"
+        }
+     },
+     {
+        "id": 5,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/high-angle-view-male-accountant-checking-financial-document_1098-18854.jpg?size=626&ext=jpg&ga=GA1.1.1400512161.1661010139&semt=sph",
+        "job_title": "Accountant",
+        "company_name": "ABC Accounting",
+        "remote_or_onsite": "onsite",
+        "onsite": "Full Time",
+        "location": "Boston, MA",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$30 - $40 per hour",
+        "job_description": "ABC Accounting is seeking an accountant to join our team...",
+        "job_responsibility": "Perform accounting and bookkeeping tasks...",
+        "educational_requirements": "Bachelor's degree in Accounting or related field...",
+        "experiences": "2+ years of experience in accounting...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@abcaccounting.com"
+        }
+     },
+     {
+        "id": 6,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/handshake-after-interview_1139-302.jpg?size=626&ext=jpg&ga=GA1.2.1400512161.1661010139&semt=ais",
+        "job_title": "Sales Representative",
+        "company_name": "Sales Corp.",
+        "remote_or_onsite": "Remote",
+        "onsite": "Full Time",
+        "location": "Los Angeles, CA",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$50,000 - $80,000",
+        "job_description": "Sales Corp. is seeking a sales representative to join our team...",
+        "job_responsibility": "Sell our products and services to new and existing customers...",
+        "educational_requirements": "High school diploma or equivalent...",
+        "experiences": "1+ years of experience in sales...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@salescorp.com"
+        }
+     },
+     {
+        "id": 4,
+        "quantity": 0,
+        "company_logo": "https://img.freepik.com/free-photo/young-programmer-eyewear-headphones-working-office_1098-18834.jpg?size=626&ext=jpg&ga=GA1.1.1400512161.1661010139&semt=ais",
+        "job_title": "Software Engineer",
+        "company_name": "Tech Solutions",
+        "remote_or_onsite": "onsite",
+        "onsite": "Full Time",
+        "location": "Anywhere",
+        "fulltime_or_parttime": "full-time",
+        "salary": "$80,000 - $100,000",
+        "job_description": "Tech Solutions is seeking a software engineer to join our team...",
+        "job_responsibility": "Develop and maintain software applications...",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field...",
+        "experiences": "5+ years of experience in software engineering...",
+        "contact_information": {
+            "phone": "555-555-1212",
+            "email": "jobs@techsolutions.com"
+        }
+     }  
+]
